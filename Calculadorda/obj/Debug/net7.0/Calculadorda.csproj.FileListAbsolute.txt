@@ -1,0 +1,14 @@
+C:\Teste\ProjetoCalculadora\Calculadorda\bin\Debug\net7.0\Calculadorda.exe
+C:\Teste\ProjetoCalculadora\Calculadorda\bin\Debug\net7.0\Calculadorda.deps.json
+C:\Teste\ProjetoCalculadora\Calculadorda\bin\Debug\net7.0\Calculadorda.runtimeconfig.json
+C:\Teste\ProjetoCalculadora\Calculadorda\bin\Debug\net7.0\Calculadorda.dll
+C:\Teste\ProjetoCalculadora\Calculadorda\bin\Debug\net7.0\Calculadorda.pdb
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\Calculadorda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\Calculadorda.AssemblyInfoInputs.cache
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\Calculadorda.AssemblyInfo.cs
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\Calculadorda.csproj.CoreCompileInputs.cache
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\Calculadorda.dll
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\refint\Calculadorda.dll
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\Calculadorda.pdb
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\Calculadorda.genruntimeconfig.cache
+C:\Teste\ProjetoCalculadora\Calculadorda\obj\Debug\net7.0\ref\Calculadorda.dll
